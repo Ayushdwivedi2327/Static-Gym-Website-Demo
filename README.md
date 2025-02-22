@@ -1,2 +1,2 @@
-# external_practcal_ayush_dwivedi_sec_A_61
-web dev practical
+# web_dev_internal_Sec_A
+Web development internal Sec A
