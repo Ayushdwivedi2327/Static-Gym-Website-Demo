@@ -1,2 +1,2 @@
-# Static Fitness Website Demo
-Static Fitness Website Demo.
+# Static Gym Website Demo
+Static Gym Website Demo.
